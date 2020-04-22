@@ -15,3 +15,5 @@ them. Though our model is modestly trained on a dataset that is new for
 HyperFace, it is found to give reasonably good results.
 
 ## Architecture for HyperFace
+
+![HyperFace Architecture](architecture.png)
