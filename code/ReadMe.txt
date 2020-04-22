@@ -1,9 +1,10 @@
 This folder has the necessary code files used in this project.
 
 Team Members
+- Karthik
 - Manpreet
 - Nishank
-- Karthik
+
 
 1. The file exp1and5.py has the implementation of experiments 1 and 5 as mentioned in the report.
    To run this code for different experiments, we need to change the model file for loading weights,
